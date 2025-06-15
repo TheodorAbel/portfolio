@@ -22,7 +22,7 @@ const About: React.FC = () => {
                 <h3 className="text-xl font-semibold text-slate-900 dark:text-white">Education</h3>
               </div>
               <p className="text-slate-600 dark:text-slate-300 mb-2">BSc in Information Science</p>
-              <p className="text-slate-500 dark:text-slate-400 text-sm">University Name, 2020 - Present</p>
+              <p className="text-slate-500 dark:text-slate-400 text-sm">Addis Ababa University, 2022 - Present</p>
             </div>
             
             <div className="bg-slate-50 dark:bg-slate-800 p-6 rounded-lg shadow-sm border border-slate-100 dark:border-slate-700 transition-transform duration-300 hover:transform hover:scale-105">
@@ -48,7 +48,7 @@ const About: React.FC = () => {
                 <Briefcase className="w-5 h-5 text-blue-600 mr-2" />
                 <h3 className="text-xl font-semibold text-slate-900 dark:text-white">Interests</h3>
               </div>
-              <p className="text-slate-600 dark:text-slate-300 mb-2">Web Development, UI/UX Design, Mobile Apps</p>
+              <p className="text-slate-600 dark:text-slate-300 mb-2">Networking,Web Development,Mobile Apps</p>
               <p className="text-slate-500 dark:text-slate-400 text-sm">Constantly learning and expanding my skill set</p>
             </div>
           </div>

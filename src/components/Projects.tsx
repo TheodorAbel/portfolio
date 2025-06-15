@@ -39,7 +39,7 @@ const Projects: React.FC = () => {
     {
       id: 3,
       title: "Recipe Hub",
-      description: "A weather app that provides real-time weather data based on location, featuring a 5-day forecast and interactive maps.",
+      description: "Recipe Hub is an easy-to-use app that helps you discover, save, and share your favorite recipes. Find delicious dishes, follow step-by-step cooking instructions, and organize your personal recipe collection all in one place",
       image: "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       technologies: ["JavaScript", "React", "Huggingface api", "CSS"],
       liveUrl: "https://example.com/weather",
@@ -51,10 +51,10 @@ const Projects: React.FC = () => {
       title: "Task Management Tool",
       description: "A productivity application that allows users to create, organize, and track tasks with deadline reminders.",
       image: "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      technologies: ["React", "Firebase", "Tailwind CSS"],
+      technologies: ["Cisco packet tracer,"],
       liveUrl: "https://example.com/tasks",
-      githubUrl: "https://github.com/yourusername/tasks",
-      featured: false
+      githubUrl: "https://github.com/TheodorAbel/FBE-CAMPUS-NETWORK",
+      featured: true
     },
     {
       id: 5,
