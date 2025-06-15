@@ -48,8 +48,8 @@ const Projects: React.FC = () => {
     },
     {
       id: 4,
-      title: "Task Management Tool",
-      description: "A productivity application that allows users to create, organize, and track tasks with deadline reminders.",
+      title: "FBE-campus-network",
+      description: "Designed and implemented a comprehensive network infrastructure for the Faculty of Business and Economics (FBE) campus at Addis Ababa University. ",
       image: "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       technologies: ["Cisco packet tracer,"],
       liveUrl: "https://example.com/tasks",
