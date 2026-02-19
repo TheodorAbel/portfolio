@@ -1,203 +1,106 @@
 %PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<</Type /Catalog /Pages 2 0 R>>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<</Type /Pages /Kids [3 0 R] /Count 1>>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<</Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 6 0 R>>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<</Font <</F1 5 0 R>>>>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://abeltheodorportfolio.netlify.app)
+>> /Border [ 0 0 0 ] /Rect [ 88.24 733.8898 224.98 745.8898 ] /Subtype /Link /Type /Annot
+>>
 endobj
 5 0 obj
-<</Type /Font /Subtype /Type1 /BaseFont /Times-Roman>>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dev-link-eight-jet.vercel.app)
+>> /Border [ 0 0 0 ] /Rect [ 287.41 365.8898 409.67 377.8898 ] /Subtype /Link /Type /Annot
+>>
 endobj
 6 0 obj
-<</Length 2240>>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/TheodorAbel/PulseFit-Fitness-App/releases)
+>> /Border [ 0 0 0 ] /Rect [ 286.31 353.8898 361.89 365.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/TheodorAbel/Yummy-Food-Review-website)
+>> /Border [ 0 0 0 ] /Rect [ 297.42 341.8898 381.88 353.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R ] /Contents 12 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/PageMode /UseNone /Pages 11 0 R /Type /Catalog
+>>
+endobj
+10 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260219081017+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260219081017+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+11 0 obj
+<<
+/Count 1 /Kids [ 8 0 R ] /Type /Pages
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1764
+>>
 stream
-BT
-/F1 16 Tf
-72 750 Td
-(Abel Tewodros) Tj
-ET
-
-BT
-/F1 14 Tf
-72 730 Td
-(Front-End & Android Developer) Tj
-ET
-
-BT
-/F1 14 Tf
-72 710 Td
-(Addis Ababa, Ethiopia) Tj
-ET
-
-BT
-/F1 14 Tf
-72 690 Td
-(Phone: +251-993 099396) Tj
-ET
-
-BT
-/F1 14 Tf
-72 670 Td
-(Email: abeltheodor12@gmail.com) Tj
-ET
-
-BT
-/F1 14 Tf
-72 650 Td
-(Portfolio: GitHub Profile) Tj
-ET
-
-BT
-/F1 16 Tf
-72 620 Td
-(PROFESSIONAL SUMMARY) Tj
-ET
-
-BT
-/F1 12 Tf
-72 600 Td
-(Aspiring Frontend and Android Developer and Information Science student at Addis Ababa University,) Tj
-ET
-
-BT
-/F1 12 Tf
-72 582 Td
-(skilled in React.js, HTML/CSS, and responsive design. Passionate about building clean,) Tj
-ET
-
-BT
-/F1 12 Tf
-72 564 Td
-(user-friendly interfaces and currently expanding my knowledge in Node.js to create more dynamic,) Tj
-ET
-
-BT
-/F1 12 Tf
-72 546 Td
-(full-stack experiences. Proficient in building modern Android apps using Kotlin and XML.) Tj
-ET
-
-BT
-/F1 16 Tf
-72 510 Td
-(SKILLS) Tj
-ET
-
-BT
-/F1 12 Tf
-90 490 Td
-(- Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Material UI) Tj
-ET
-
-BT
-/F1 12 Tf
-90 472 Td
-(- Android: Kotlin, XML, Jetpack Compose) Tj
-ET
-
-BT
-/F1 12 Tf
-90 454 Td
-(- Tools: Git, GitHub, Firebase) Tj
-ET
-
-BT
-/F1 12 Tf
-90 436 Td
-(- Learning: Node.js) Tj
-ET
-
-BT
-/F1 16 Tf
-72 400 Td
-(PROJECTS) Tj
-ET
-
-BT
-/F1 12 Tf
-72 380 Td
-(Yummy Food Review Website - GitHub: Yummy-Food-Review-website) Tj
-ET
-
-BT
-/F1 12 Tf
-72 362 Td
-(Recipe Hub - GitHub: https://github.com/TheodorAbel/Recipe-Hub) Tj
-ET
-
-BT
-/F1 12 Tf
-72 344 Td
-(Job Search app - GitHub: https://github.com/TheodorAbel/Job-Search-app) Tj
-ET
-
-BT
-/F1 16 Tf
-72 310 Td
-(EDUCATION) Tj
-ET
-
-BT
-/F1 12 Tf
-72 290 Td
-(High School Graduate) Tj
-ET
-
-BT
-/F1 12 Tf
-72 272 Td
-(Ethio National School [June 2022]) Tj
-ET
-
-BT
-/F1 12 Tf
-72 254 Td
-(Address: Addis Ababa, Ethiopia) Tj
-ET
-
-BT
-/F1 12 Tf
-72 236 Td
-(Bachelor's Degree in Information Science) Tj
-ET
-
-BT
-/F1 12 Tf
-72 218 Td
-(Addis Ababa University [June 2022 - Current]) Tj
-ET
-
-BT
-/F1 12 Tf
-72 200 Td
-(Address: Addis Ababa, Ethiopia) Tj
-ET
-
-BT
-/F1 12 Tf
-72 182 Td
-(Website: AAU | Addis Ababa University) Tj
-ET
-
-endstream
+Gau0DD/\Dn&H:Nn0qV55%Tj?WGklI;(>>A6MCmLES^];>1#UWfZ]5.LF?fcE%Y;!`@>bhn<e8opo$#><)*?3^O(81p&\qHi^5O%N>juCaFIF6>Ddhk%r&esW.m"eo]Bs46fC.Z.I*o5QeGKID3a6SFp^rC(_=<I4f/8.pk>TO>V^iW7R@Jm/"TIjZr&=Pd<cQ\BW-BWA23Jt1c^NQCnoH%K2G,ubM'g%pr(X*Y)r/OaitO-1P&_F=<N<KKG0i$(o.8M[Cci(mQGE<\9M$7ZHGO.9#lFqfKbSV/J%0,dUYg"!n?;<>n&'r84og1bkQR6F<0$k=h#,e5A5m;R]6tq]A#])oE[D$!("<TEj8<1]:sI[0h'?uFC.@MC<4aEsnu68q)CmhC8]%8G(o]?LLg$-Zo%a47%XWtoJYA+DRM#c_@O>)C1oc7$^o.Me,WZC6cp0E%iWn?E>>g_?]nXS]n0Or_VBK1n&uKjP!8Nn+4e;]e+mebOpS##[mpO-,!Z&9nBqPnLjf6N5-9tG8F!VP3+d"Ro,)S^Sm>TE/-4GgU"-.PCl_fL7SsbrJ8^JZknR4b:<#P:GKVh?Ys3Q(6e6b`mZkRWgUsOun;f+F-#mA'e8uFD^8j8rhB%&mT&h[]/B?P0Fr2n8$jJftiDF"OW2isFr1IW`?`m,GGdn":$-C`Nl?k=I=k_N!&#b.!eV#Wq,3@@b)LfJ+"gM0,JcZC=ULnUf#7Xl&B/XrUD':;XQim3i<C(O#L-?Lbn-3lCaGFC9.g7JJ!l7bg\%%2ASfq<2)@L[8lON_gAAWA9-"0&066:``lN#G]84u^<T@`ctCCI#3_Vd%H/e[%o%1APRr?$1V7l2.lsN7Q^Xe*Xl4^Q\).?:cfF+ST/-^/%M)AQQK$G][6[9tHX:=u_Hjn?i(.AGb64dC'Mn6Su(^l1H4lcKiZTN0%j^kMr'.M,LKZN'D4faf^kC:'CGQbLKM+4Jtfe4Qf8N-6)q%DtrK>B.3QV>4:,NE`O[_^\sSgV-&&XWHk9AjSNT0Gra#B[n;mUmZDq?#jFoZ&J!`j^?F\m;X"90JZaX?Np.fc/B6kfaHGW1fDaTC*A/ZP>_;@bMIEgDD\"+(0C\q;'S]Yb4S0"EaF4u3_g)5,bSOf`3a?.bPr[:W=%P2:l(<#"X%$$t,D+/,\Mq;HM2Z8bV,Wim`l9t7p39b"osJ==Goti+<QPhAl(@9L^S5)&]\$M\O)L0^G)n@9C^D0K,<Y^E:C30g5!BB&^0On,X4OQ'=0I,?7$1qo0(c%>(i2><o:ja.ZRVrPF7a!d.kPmQBJ<LBKHj*2MQn)824f,:aPPfIc";7I<U+1o8o!T14UKu/-(Ag^FsS5@WXmT_]2E6$H<RtW0pc[n.2XRB8reJ6@X'$R^[#uFLEBJ!PaAuD<_=V)i?!;pM"2=V8=R&=s+6#4=uq(U>*ZB^lWCU*Vg:/b%,c^`JV:;e9'i5d$-WGEj7`E-*;2/RQ:@hZM=I+#pG)'lZ%L19k;59[DpU+<j&K7+7HpF[9!Mg>A`@ub"$5-F\5.,P&Q&gYbRs:jg`iTR=<)2H>&]pKE"piqCqe8U-`WY/><mrr>2!Uhnj?:NkF`]j4J=!s5JW"f4-FLdR)0uZ#FgZLYS#t2&%M0uku:5'7HpF3j.A/cefR.#AI+/G)-pfp>nN!bMG.dGE*-8!7P#4-Ve,,S=PGiZRMgioAji&3[q,L2%eaWF*-N(<g%N:BM1,,;ec:'SZMt\XGG2TPq;Ja:)fOZqJ+mBl[K~>endstream
 endobj
 xref
-0 7
-0000000000 65535 f
-0000000009 00000 n
-0000000056 00000 n
-0000000111 00000 n
-0000000212 00000 n
-0000000253 00000 n
-0000000321 00000 n
+0 13
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000520 00000 n 
+0000000705 00000 n 
+0000000913 00000 n 
+0000001117 00000 n 
+0000001358 00000 n 
+0000001427 00000 n 
+0000001711 00000 n 
+0000001771 00000 n 
 trailer
-<</Size 7 /Root 1 0 R>>
+<<
+/ID 
+[<34a08a092b3c7a3c4b2f76470c6392b4><34a08a092b3c7a3c4b2f76470c6392b4>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 13
+>>
 startxref
-2700
+3627
 %%EOF

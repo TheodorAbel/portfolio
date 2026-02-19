@@ -17,6 +17,26 @@ const Projects: React.FC = () => {
   
   const projects: Project[] = [
     {
+      id: 6,
+      title: "PulseFit",
+      description: "A Flutter fitness app focused on workout execution, routine planning, scheduling, progress tracking, and health-data integration—built with local-first performance and optional cloud sync.",
+      image: "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      technologies: ["Flutter", "Dart", "Provider", "GoRouter", "Hive", "Firebase", "Firestore", "Local Notifications", "Health APIs"],
+      liveUrl: "https://github.com/TheodorAbel/PulseFit-Fitness-App/releases",
+      githubUrl: "https://github.com/TheodorAbel/PulseFit-Fitness-App",
+      featured: true
+    },
+    {
+      id: 2,
+      title: "DevLink",
+      description: "A modern marketplace for tech-related jobs that connects job seekers and employers. Job seekers can discover roles, save/share jobs, and manage their profile and resume. Employers manage company presence and job postings via a dedicated dashboard.",
+      image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Radix UI", "React Query", "Supabase"],
+      liveUrl: "https://dev-link-eight-jet.vercel.app",
+      githubUrl: "https://github.com/TheodorAbel/DevLink",
+      featured: true
+    },
+    {
       id: 1,
       title: "Yummy Food Review Website",
       description: "A fully responsive e-commerce platform with product filtering, cart functionality, and checkout process.",
@@ -27,13 +47,13 @@ const Projects: React.FC = () => {
       featured: true
     },
     {
-      id: 2,
-      title: "Job search app",
-      description: "JobFiy is a modern Android app that connects job seekers with employers.",
-      image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      technologies: ["kotlin", "Firebase", "jetpack libraries"],
+      id: 4,
+      title: "FBE-campus-network",
+      description: "Designed and implemented a comprehensive network infrastructure for the Faculty of Business and Economics (FBE) campus at Addis Ababa University. ",
+      image: "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      technologies: ["Cisco packet tracer,"],
       liveUrl: "https://example.com/tasks",
-      githubUrl: "https://github.com/TheodorAbel/Job-Search-app",
+      githubUrl: "https://github.com/TheodorAbel/FBE-CAMPUS-NETWORK",
       featured: false
     },
     {
@@ -45,16 +65,6 @@ const Projects: React.FC = () => {
       liveUrl: "https://example.com/weather",
       githubUrl: "https://github.com/TheodorAbel/Recipe-Hub",
       featured: false
-    },
-    {
-      id: 4,
-      title: "FBE-campus-network",
-      description: "Designed and implemented a comprehensive network infrastructure for the Faculty of Business and Economics (FBE) campus at Addis Ababa University. ",
-      image: "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      technologies: ["Cisco packet tracer,"],
-      liveUrl: "https://example.com/tasks",
-      githubUrl: "https://github.com/TheodorAbel/FBE-CAMPUS-NETWORK",
-      featured: true
     },
     {
       id: 5,

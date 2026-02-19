@@ -9,11 +9,11 @@ const About: React.FC = () => {
           <h2 className="text-3xl md:text-4xl font-bold text-slate-900 dark:text-white mb-2">About Me</h2>
           <div className="w-20 h-1 bg-blue-600 mb-8"></div>
           <p className="text-slate-600 dark:text-slate-300 text-center max-w-3xl leading-relaxed">
-            I'm a passionate and dedicated aspiring developer with a strong foundation in web technologies.
-            Here's a bit more about my journey, education, and what drives me.
+            I'm a full-stack developer focused on building reliable, user-centered products.
+            I enjoy taking ownership from problem definition to delivery—shipping polished UI, solid APIs, and maintainable code.
           </p>
         </div>
-        
+
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6 order-2 md:order-1">
             <div className="bg-slate-50 dark:bg-slate-800 p-6 rounded-lg shadow-sm border border-slate-100 dark:border-slate-700 transition-transform duration-300 hover:transform hover:scale-105">
@@ -24,16 +24,19 @@ const About: React.FC = () => {
               <p className="text-slate-600 dark:text-slate-300 mb-2">BSc in Information Science</p>
               <p className="text-slate-500 dark:text-slate-400 text-sm">Addis Ababa University, 2022 - Present</p>
             </div>
-            
+
             <div className="bg-slate-50 dark:bg-slate-800 p-6 rounded-lg shadow-sm border border-slate-100 dark:border-slate-700 transition-transform duration-300 hover:transform hover:scale-105">
               <div className="flex items-center mb-4">
                 <Calendar className="w-5 h-5 text-blue-600 mr-2" />
                 <h3 className="text-xl font-semibold text-slate-900 dark:text-white">Experience</h3>
               </div>
-              <p className="text-slate-600 dark:text-slate-300 mb-2">Self-taught Developer</p>
-              <p className="text-slate-500 dark:text-slate-400 text-sm">Building personal projects and contributing to open source</p>
+              <ul className="text-slate-600 dark:text-slate-300 text-sm space-y-2">
+                <li>IT Security Intern at Grant Thornton</li>
+                <li>Freelance full-stack development for different clients and companies</li>
+                <li>Contributing to a startup project at Nano Computing ICT Solution</li>
+              </ul>
             </div>
-            
+
             <div className="bg-slate-50 dark:bg-slate-800 p-6 rounded-lg shadow-sm border border-slate-100 dark:border-slate-700 transition-transform duration-300 hover:transform hover:scale-105">
               <div className="flex items-center mb-4">
                 <Award className="w-5 h-5 text-blue-600 mr-2" />
@@ -41,38 +44,40 @@ const About: React.FC = () => {
               </div>
               <p className="text-slate-600 dark:text-slate-300 mb-2">Hackathon Finalist</p>
               <p className="text-slate-500 dark:text-slate-400 text-sm">Local Web Development Competition, 2023</p>
+              <p className="text-slate-600 dark:text-slate-300 mb-2 mt-3">Startup Project Contributor</p>
+              <p className="text-slate-500 dark:text-slate-400 text-sm">Building and shipping features as part of a startup initiative at Nano Computing ICT Solution.</p>
+              <p className="text-slate-600 dark:text-slate-300 mb-2 mt-3">Delivered Real-World Client Work</p>
+              <p className="text-slate-500 dark:text-slate-400 text-sm">Hands-on experience collaborating with stakeholders, translating requirements into working software, and iterating quickly.</p>
             </div>
-            
+
             <div className="bg-slate-50 dark:bg-slate-800 p-6 rounded-lg shadow-sm border border-slate-100 dark:border-slate-700 transition-transform duration-300 hover:transform hover:scale-105">
               <div className="flex items-center mb-4">
                 <Briefcase className="w-5 h-5 text-blue-600 mr-2" />
                 <h3 className="text-xl font-semibold text-slate-900 dark:text-white">Interests</h3>
               </div>
-              <p className="text-slate-600 dark:text-slate-300 mb-2">Networking,Web Development,Mobile Apps</p>
+              <p className="text-slate-600 dark:text-slate-300 mb-2">Full-Stack Development, Mobile App Development</p>
               <p className="text-slate-500 dark:text-slate-400 text-sm">Constantly learning and expanding my skill set</p>
             </div>
           </div>
-          
+
           <div className="space-y-6 order-1 md:order-2">
-            <h3 className="text-2xl font-bold text-slate-900 dark:text-white mb-4">Why Hire Me?</h3>
-            
+            <h3 className="text-2xl font-bold text-slate-900 dark:text-white mb-4">What I Bring</h3>
+
             <p className="text-slate-600 dark:text-slate-300 leading-relaxed mb-4">
-              I'm a quick learner with a passion for clean, efficient code and beautiful user interfaces. 
-              My background in computer science has given me a solid foundation in algorithms, data structures, 
-              and software design principles.
+              I help teams ship reliable features by combining strong engineering fundamentals with practical product thinking.
+              I’m comfortable working across the stack—from UI and APIs to integration and deployment.
             </p>
-            
+
             <p className="text-slate-600 dark:text-slate-300 leading-relaxed mb-4">
-              What sets me apart is my dedication to continuous improvement and my ability to adapt to new 
-              technologies and frameworks. I believe in writing maintainable, well-documented code and 
-              working collaboratively with others.
+              I’ve worked in real delivery environments, including an IT Security internship and freelance engagements.
+              I communicate clearly, take ownership, and focus on writing maintainable code that scales.
             </p>
-            
+
             <p className="text-slate-600 dark:text-slate-300 leading-relaxed mb-6">
-              I'm looking for an internship opportunity where I can apply my skills, learn from experienced 
-              professionals, and contribute to meaningful projects.
+              If you’re looking for a developer who learns fast, executes with discipline, and cares about quality and UX,
+              I’d love to contribute.
             </p>
-            
+
             <div className="flex flex-wrap gap-3">
               <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Problem Solver</span>
               <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">Detail-oriented</span>

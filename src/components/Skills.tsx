@@ -1,7 +1,6 @@
 import React from 'react';
-import { Check } from 'lucide-react';
 import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs, FaPhp, FaLaravel, FaFire, FaGitAlt, FaAndroid, FaCode } from 'react-icons/fa';
-import { SiTypescript, SiTailwindcss, SiMongodb, SiExpress, SiNpm } from 'react-icons/si';
+import { SiTypescript, SiTailwindcss, SiNpm } from 'react-icons/si';
 
 interface SkillCategory {
   name: string;
@@ -23,7 +22,11 @@ const Skills: React.FC = () => {
         { name: "React", icon: <FaReact className="text-blue-400" size={24} /> },
         { name: "TypeScript", icon: <SiTypescript className="text-blue-600" size={24} /> },
         { name: "Tailwind CSS", icon: <SiTailwindcss className="text-cyan-500" size={24} /> },
-        { name: "Android Development", icon: <FaAndroid className="text-green-500" size={24} /> },
+        { name: "Next.js", icon: <FaReact className="text-blue-400" size={24} /> },
+        { name: "Flutter Development", icon: <FaAndroid className="text-green-500" size={24} /> },
+        { name: "Dart", icon: <FaCode className="text-blue-500" size={24} /> },
+        { name: "Provider", icon: <FaCode className="text-blue-500" size={24} /> },
+        { name: "GoRouter", icon: <FaCode className="text-blue-500" size={24} /> },
       ]
     },
     {
@@ -33,6 +36,9 @@ const Skills: React.FC = () => {
         { name: "Laravel", icon: <FaLaravel className="text-red-500" size={24} /> },
         { name: "Firebase", icon: <FaFire className="text-orange-500" size={24} /> },
         { name: "RESTful APIs", icon: <FaNodeJs className="text-green-600" size={24} /> },
+        { name: "Supabase", icon: <FaCode className="text-blue-500" size={24} /> },
+        { name: "Firestore", icon: <FaFire className="text-orange-500" size={24} /> },
+        { name: "Firebase Auth", icon: <FaFire className="text-orange-500" size={24} /> },
       ]
     },
     {
@@ -42,6 +48,11 @@ const Skills: React.FC = () => {
         { name: "VS Code", icon: <FaCode className="text-blue-500" size={24} /> },
         { name: "Responsive Design", icon: <FaCss3Alt className="text-blue-500" size={24} /> },
         { name: "NPM/Yarn", icon: <SiNpm className="text-red-500" size={24} /> },
+        { name: "React Query", icon: <FaReact className="text-blue-400" size={24} /> },
+        { name: "Radix UI", icon: <FaCode className="text-blue-500" size={24} /> },
+        { name: "Hive", icon: <FaCode className="text-blue-500" size={24} /> },
+        { name: "Flutter Local Notifications", icon: <FaCode className="text-blue-500" size={24} /> },
+        { name: "Health APIs", icon: <FaCode className="text-blue-500" size={24} /> },
       ]
     }
   ];
@@ -80,76 +91,6 @@ const Skills: React.FC = () => {
               </div>
             </div>
           ))}
-        </div>
-        
-        <div className="mt-16 bg-blue-50 dark:bg-slate-800 rounded-xl p-8 border border-blue-100 dark:border-slate-700">
-          <h3 className="text-2xl font-bold text-slate-900 dark:text-white mb-6 text-center">What I Bring to the Table</h3>
-          
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="space-y-4">
-              <div className="flex items-start">
-                <div className="mt-1 mr-3 bg-blue-100 dark:bg-blue-900 p-1 rounded-full">
-                  <Check className="w-4 h-4 text-blue-600 dark:text-blue-400" />
-                </div>
-                <div>
-                  <h4 className="font-medium text-slate-900 dark:text-white">Strong Foundation</h4>
-                  <p className="text-slate-600 dark:text-slate-300 text-sm">Solid understanding of computer science fundamentals and programming concepts.</p>
-                </div>
-              </div>
-              
-              <div className="flex items-start">
-                <div className="mt-1 mr-3 bg-blue-100 dark:bg-blue-900 p-1 rounded-full">
-                  <Check className="w-4 h-4 text-blue-600 dark:text-blue-400" />
-                </div>
-                <div>
-                  <h4 className="font-medium text-slate-900 dark:text-white">Responsive Design</h4>
-                  <p className="text-slate-600 dark:text-slate-300 text-sm">Skilled in creating websites that work flawlessly across all devices and screen sizes.</p>
-                </div>
-              </div>
-              
-              <div className="flex items-start">
-                <div className="mt-1 mr-3 bg-blue-100 dark:bg-blue-900 p-1 rounded-full">
-                  <Check className="w-4 h-4 text-blue-600 dark:text-blue-400" />
-                </div>
-                <div>
-                  <h4 className="font-medium text-slate-900 dark:text-white">Modern Development</h4>
-                  <p className="text-slate-600 dark:text-slate-300 text-sm">Proficient in modern development practices and best practices for clean, efficient code.</p>
-                </div>
-              </div>
-            </div>
-            
-            <div className="space-y-4">
-              <div className="flex items-start">
-                <div className="mt-1 mr-3 bg-blue-100 dark:bg-blue-900 p-1 rounded-full">
-                  <Check className="w-4 h-4 text-blue-600 dark:text-blue-400" />
-                </div>
-                <div>
-                  <h4 className="font-medium text-slate-900 dark:text-white">Problem Solving</h4>
-                  <p className="text-slate-600 dark:text-slate-300 text-sm">Strong analytical skills and ability to troubleshoot complex issues.</p>
-                </div>
-              </div>
-              
-              <div className="flex items-start">
-                <div className="mt-1 mr-3 bg-blue-100 dark:bg-blue-900 p-1 rounded-full">
-                  <Check className="w-4 h-4 text-blue-600 dark:text-blue-400" />
-                </div>
-                <div>
-                  <h4 className="font-medium text-slate-900 dark:text-white">Version Control</h4>
-                  <p className="text-slate-600 dark:text-slate-300 text-sm">Experienced with Git workflow, branching strategies, and collaborative development.</p>
-                </div>
-              </div>
-              
-              <div className="flex items-start">
-                <div className="mt-1 mr-3 bg-blue-100 dark:bg-blue-900 p-1 rounded-full">
-                  <Check className="w-4 h-4 text-blue-600 dark:text-blue-400" />
-                </div>
-                <div>
-                  <h4 className="font-medium text-slate-900 dark:text-white">Continuous Learning</h4>
-                  <p className="text-slate-600 dark:text-slate-300 text-sm">Dedicated to staying updated with the latest technologies and industry best practices.</p>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </section>

@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
   const typingRef = useRef<HTMLSpanElement>(null);
 
   useEffect(() => {
-    const roles = ['Full Stack Developer', 'Android App Developer'];
+    const roles = ['Full Stack Developer', 'Flutter App Developer'];
     let roleIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
@@ -62,15 +62,15 @@ const Hero: React.FC = () => {
           {/* Text content */}
           <div className="animate-fade-in-up max-w-3xl order-2 lg:order-1">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 dark:text-white mb-4">
-              Hi, I'm <span className="text-blue-600">Theodor Abel</span>
+              Hi, I'm <span className="text-blue-600">Abel Tewodros</span>
             </h1>
             <h2 className="text-xl md:text-2xl lg:text-3xl text-slate-700 dark:text-slate-300 mb-6">
               I'm a <span ref={typingRef} className="text-blue-600 font-medium"></span>
               <span className="animate-blink">|</span>
             </h2>
             <p className="text-slate-600 dark:text-slate-400 mb-8 text-lg max-w-2xl leading-relaxed">
-              Passionate about creating beautiful, functional web experiences.
-              Currently seeking my first internship to apply and expand my skills.
+              I build modern web and mobile products end-to-end, with a focus on clean architecture, performance,
+              and great user experience. Open to full-time roles and impactful projects.
             </p>
 
             {/* Buttons */}
@@ -133,13 +133,13 @@ const Hero: React.FC = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white dark:border-slate-700 shadow-xl">
                 <img
                   src={profilePic}
-                  alt="Theodor Abel smiling in profile"
+                  alt="Abel Tewodros smiling in profile"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="absolute -bottom-4 -right-4 bg-white dark:bg-slate-800 p-4 rounded-lg shadow-lg text-center">
                 <p className="text-sm font-semibold text-slate-900 dark:text-white">Open to Work</p>
-                <p className="text-xs text-slate-600 dark:text-slate-400">Seeking Internship</p>
+                <p className="text-xs text-slate-600 dark:text-slate-400">Open to Opportunities</p>
               </div>
             </div>
           </div>

@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-center mb-8">
           <div className="mb-6 md:mb-0">
             <h3 className="text-2xl font-bold mb-2">Abel Tewodros</h3>
-            <p className="text-slate-400">Web Developer | Android app Developer</p>
+            <p className="text-slate-400">Full Stack & Flutter Developer</p>
           </div>
           
           <div className="flex space-x-4">
@@ -29,7 +29,7 @@ const Footer: React.FC = () => {
               <GitHub className="w-5 h-5" />
             </a>
             <a 
-              href="https://linkedin.com/in/yourusername" 
+              href="https://www.linkedin.com/in/abel-theodor-1258b4244" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-slate-800 dark:bg-slate-900 p-2 rounded-full hover:bg-blue-600 transition-colors duration-300"
@@ -38,7 +38,7 @@ const Footer: React.FC = () => {
               <Linkedin className="w-5 h-5" />
             </a>
             <a 
-              href="mailto:your.email@example.com"
+              href="mailto:abeltheodor12@gmail.com"
               className="bg-slate-800 dark:bg-slate-900 p-2 rounded-full hover:bg-blue-600 transition-colors duration-300"
               aria-label="Email Contact"
             >
@@ -49,7 +49,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-slate-800 dark:border-slate-900 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-slate-400 text-sm mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} Your Name. All rights reserved.
+            &copy; {new Date().getFullYear()} Abel Tewodros. All rights reserved.
           </p>
           
           <div className="flex items-center">
